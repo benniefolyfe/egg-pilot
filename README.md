@@ -35,6 +35,6 @@ Screen images are processed locally and are not saved. Egg Pilot has no internet
 
 The Android build, permissions/setup flow, floating controls, and optional report sharing have been checked. Drone testing used simulated flights; a live-game catch rate and physical-phone battery/heat behavior have not been established. Touch counters describe attempts rather than verified rewards.
 
-[Questions, feedback, or problems](https://github.com/benniefolyfe/egg-pilot/issues) are welcome. Further development is not guaranteed.
+[Discussion and questions](https://github.com/benniefolyfe/egg-pilot/discussions/1) and [problem reports](https://github.com/benniefolyfe/egg-pilot/issues) are welcome. Further development is not guaranteed.
 
 This repository hosts release downloads, documentation, and screenshots. It is not a source-code release. Egg Pilot is an unofficial companion and is not affiliated with Auxbrain, the developer of Egg, Inc.
