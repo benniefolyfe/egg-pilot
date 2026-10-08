@@ -10,7 +10,7 @@ It’s a personal project developed by lighthearts.co, released as a beta. I’d
 
 ## Download
 
-[Download Egg Pilot 0.22.1-beta](https://github.com/benniefolyfe/egg-pilot/releases/download/v0.22.1-beta/Egg-Pilot-0.22.1-beta.apk) · [Release notes](https://github.com/benniefolyfe/egg-pilot/releases/tag/v0.22.1-beta)
+[Download Egg Pilot 0.22.2-beta](https://github.com/benniefolyfe/egg-pilot/releases/download/v0.22.2-beta/Egg-Pilot-0.22.2-beta.apk) · [Release notes](https://github.com/benniefolyfe/egg-pilot/releases/tag/v0.22.2-beta)
 
 Requires Android 8.0 or newer and Egg, Inc. This is a companion app; it does not replace the game. Install the APK, or install it over an existing Egg Pilot beta to update.
 
@@ -32,6 +32,8 @@ Observation starts with automated taps paused. Pause stops automation; **×** en
 Screen images are processed locally and are not saved. Egg Pilot has no internet permission. It keeps recent diagnostic text on the device; **Share bug report** exports a text file through Android's share chooser only when you choose to share it. Reports include device/display details, selected features, and recent actions. They contain no screenshots or video recordings. Tapping the developer website link opens your browser.
 
 ## Beta status and feedback
+
+0.22.2-beta fixes hatching and gift collection on different screen layouts. The repair has been confirmed working on a Samsung A52; other devices still need feedback.
 
 The Android build, permissions/setup flow, floating controls, and optional report sharing have been checked. Drone testing used simulated flights; a live-game catch rate and physical-phone battery/heat behavior have not been established. Touch counters describe attempts rather than verified rewards.
 
