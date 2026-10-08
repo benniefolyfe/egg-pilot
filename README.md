@@ -33,7 +33,7 @@ Screen images are processed locally and are not saved. Egg Pilot has no internet
 
 ## Beta status and feedback
 
-0.22.2-beta fixes hatching and gift collection on different screen layouts. The repair has been confirmed working on a Samsung A52; other devices still need feedback.
+0.22.2-beta fixes hatching and gift collection on different screen layouts. Initial A52 testing improved these features, but a missed existing gift after pausing and resuming is still being investigated. Other phones still need feedback.
 
 The Android build, permissions/setup flow, floating controls, and optional report sharing have been checked. Drone testing used simulated flights; a live-game catch rate and physical-phone battery/heat behavior have not been established. Touch counters describe attempts rather than verified rewards.
 
